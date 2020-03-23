@@ -1,0 +1,20 @@
+# Site settings
+title:
+email:
+author:
+description:
+url:
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+# Social icons
+show_social_icons: true
+github_username: someGithubUser
+twitter_username: someTwitterUser
+
+# plugins
+plugins: [jekyll-paginate]
+paginate: 3
