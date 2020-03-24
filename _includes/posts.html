@@ -4,10 +4,20 @@
       <div class="col">
         {% for post in paginator.posts %}
           <div>
-            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            <span class="post-date">
+
+            <div class="d-flex justify-content-between">
+              <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                  <span>
+              {% for tag in post.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+              {% endfor %}
+            </span>
+          </div>
+            <span class="text-right ">
               {{ post.date | date: "%b %-d, %Y" }}
-            </span> |
+            </span>
+            
             <p>
               {% if post.summary %}
                 {{ post.summary }}
