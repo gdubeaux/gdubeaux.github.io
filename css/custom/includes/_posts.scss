@@ -2,7 +2,28 @@
   a {
     text-decoration: none;
     &:hover {
-      color: $info;
+      color: $warning;
     }
+  }
+}
+
+.post-date {
+  color: $primary;
+  font-weight: lighter;
+}
+
+.post-summary {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.post-summary {
+  color: $primary;
+}
+
+.post-summary a {
+  color: $warning;
+  &:hover {
+    color: $primary !important;
   }
 }

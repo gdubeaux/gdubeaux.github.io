@@ -8,3 +8,14 @@
   font-size:1.6em;
   font-weight: lighter;
 }
+
+.digitalocean {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      color: $warning;
+      cursor: pointer;
+    }
+  }
+}
