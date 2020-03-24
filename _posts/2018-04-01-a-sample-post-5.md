@@ -2,6 +2,8 @@
 layout: post
 title: A sample post with many elements
 summary: We'll use this post to work out what we need to do to style an individual posts... let's get going!
+category: Dev
+tags: [web, jekyll]
 ---
 # Heading 1
 ## Heading 2

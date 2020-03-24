@@ -5,10 +5,17 @@
         {% for post in paginator.posts %}
           <div>
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            <p class="text-info lead">
+            <span class="post-date">
               {{ post.date | date: "%b %-d, %Y" }}
-            </p>
-
+            </span> |
+            {% comment %}
+            =======================
+            The purpose of this snippet is to list all the tags you have in your site.
+            =======================
+            {% endcomment %}
+            {% for tag in tags %}
+            	<a href="/tags/#{{ tag | slugify }} " class="post-tag"> {{ post.tags }} </a>
+            {% endfor %}
             <p>
               {% if post.summary %}
                 {{ post.summary }}
