@@ -1,6 +1,6 @@
 <footer class="py-5">
   <hr>
-  <div class="container text-center text-info">
+  <div class="container text-center text-secondary">
     <div class="row">
       <div class="col">
         {% if site.show_social_icons %}
@@ -9,13 +9,13 @@
       </div>
     </div>
     <div class="row">
-      <div class="col">
-        &copy; 2017-{{ site.time | date: '%Y' }} Guillaume Dubeaux, Ph.D.
+      <div class="col brand">
+        &copy; 2017-{{ site.time | date: '%Y' }} <span class="">gd.</span>
       </div>
     </div>
     <div class="row">
       <div class="col">
-        Hosted on <a href="https://m.do.co/c/8c137871d7d2"><i class="fab fa-digital-ocean"></i></a> | Coded with <i class="fas fa-heart"></i>
+        Hosted on <a href="https://m.do.co/c/8c137871d7d2"><i class="fab fa-digital-ocean"></i></a> | Coded with <span class="text-primary"><i class="fas fa-heart"></i></span>
       </div>
     </div>
   </div>

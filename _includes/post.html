@@ -5,14 +5,12 @@
       <span class="post-date">
         {{ page.date | date: "%b %-d, %Y" }}
       </span>
-      {% comment %}
-=======================
-The purpose of this snippet is to list all the tags you have in your site.
-=======================
-{% endcomment %}
-{% for tag in tags %}
-	<a href="/tags/#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %}
+      <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
       <article>
         {{ content }}
       </article>

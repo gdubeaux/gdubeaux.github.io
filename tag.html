@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tags
+title: Tags
 permalink: /tags/
 ---
 
@@ -34,22 +34,17 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 {% endfor %}
 
 <div class="container">
-  <div class="row">
-    <div class="col pt-5">
-      <h1 class="display-3 text-primary text-center">Tags</h1>
-      <div class="tags-expo">
-  <div class="tags-expo-list">
+      <div>
       {% comment %}
       =======================
       The purpose of this snippet is to list all the tags you have in your site.
       =======================
       {% endcomment %}
       {% for tag in tags %}
-      	<a href="#{{ tag | slugify }}" class="post-tag"> {{ tag }} </a>
+      	<button type="button" class="btn btn-outline-secondary center-block"><a href="#{{ tag | slugify }}"> {{ tag }} </a></button>
       {% endfor %}
-</div>
-</div>
       {% comment %}
+    </div>
 =======================
 The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
@@ -71,6 +66,4 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	 {% endfor %}
 	</ul>
 {% endfor %}
-    </div>
-  </div>
 </div>

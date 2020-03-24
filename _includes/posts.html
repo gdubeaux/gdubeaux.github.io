@@ -8,14 +8,6 @@
             <span class="post-date">
               {{ post.date | date: "%b %-d, %Y" }}
             </span> |
-            {% comment %}
-            =======================
-            The purpose of this snippet is to list all the tags you have in your site.
-            =======================
-            {% endcomment %}
-            {% for tag in tags %}
-            	<a href="/tags/#{{ tag | slugify }} " class="post-tag"> {{ post.tags }} </a>
-            {% endfor %}
             <p>
               {% if post.summary %}
                 {{ post.summary }}
