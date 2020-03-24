@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-author:
-description:
-url:
+title: gd.
+email: guillaume@dubeaux.me
+author: Guillaume Dubeaux
+description: My personal website.
+url: guillaume.dubeaux.me
 
 # Build settings
 permalink: :title/
@@ -12,9 +12,10 @@ sass:
 
 # Social icons
 show_social_icons: true
-github_username: someGithubUser
-twitter_username: someTwitterUser
+github_username: gdubeaux
+twitter_username: gdubeaux
+linkedin_username: gdubeaux
 
 # plugins
 plugins: [jekyll-paginate]
-paginate: 3
+paginate: 10

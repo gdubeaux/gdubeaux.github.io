@@ -1,5 +1,8 @@
-$primary: #8d021f; // burgundy
-$info: #7f7f7f; // grey
+$primary: #4a525a; // burgundy
+$info: #b5b5b5; // light grey
+$secondary: #7f7f7f; // grey
+$warning: #6a9fb5; // blue
+$primary-dark: darken($primary, 10%);
 
 $code-heading-background: #dededc; // light grey
 $code-text-color: #b6b6b6; // off white
