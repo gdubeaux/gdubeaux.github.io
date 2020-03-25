@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="container">
+      <section class="py-5">
+        <div class="row">
+          <div class="col-9 text-justify">
+
+              {{ content }}
+          </div>
+          {% include sidebar.html %}
+        </div>
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
