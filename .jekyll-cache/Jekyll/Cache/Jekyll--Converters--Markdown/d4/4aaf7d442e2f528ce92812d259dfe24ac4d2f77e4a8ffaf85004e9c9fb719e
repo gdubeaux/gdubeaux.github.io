@@ -1,100 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>gd.</title>
-
-  <link rel="stylesheet" href="/css/main.css">
-
-  
-    
-
-
-
-
-
-
-  
-
-</head>
-
-  <body>
-    <!-- NAV -->
-<nav class="navbar navbar-expand-md navbar-dark bg-primary py-4">
-  <div class="container">
-    <a href="/" class="navbar-brand">
-      <h3 class="d-inline align-middle pl-3 text-info">gd.</h3>
-    </a>
-    <div class="justify-content-end" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a href="/about/" class="nav-link"><i class="fas fa-info-circle fa-1x"></i> About me</a>
-          </li>
-          <li class="nav-item">
-            <a href="/cv/" class="nav-link"><i class="fas fa-address-card fa-1x"></i> My CV</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
-
-    <div class="container">
-      <section class="py-5">
-        
-<div id="breadcrumbs" class="text-primary">
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-
-  <li class="breadcrumb-item"><a href="/">Home</a></li>
-
-  
-     &nbsp;/ CV
-  
-
-</ol>
-</nav>
-</div>
-
-        <div class="row py-3">
-          <div class="col-sm-3" id="sidebar">
-  <div class="sticky-top">
-  <div class="text-center sidebar-academic">
-    <img src="/img/GDmemoji.jpg" class="rounded-circle" alt="Guillaume Dubeaux, PhD" width="40%">
-    <h3 class="guillaume">Guillaume Dubeaux, PhD</h3>
-    <p class="">
-      <ul class="list-inline social-sidebar">
-
-                  <li class="list-inline-item"><a href="https://twitter.com/gdubeaux"><i class="fab fa-lg fa-twitter"></i></a></li>
-        <li class="list-inline-item"><a href="https://scholar.google.com/citations?user=PIGWj2AAAAAJ&hl=en"><i class="ai ai-lg ai-google-scholar"></i></a></li>
-                  <li class="list-inline-item"><a href="http://orcid.org/0000-0003-0275-8467"><i class="ai ai-lg ai-orcid"></i></a></li>
-        <li class="list-inline-item"><a href="https://www.researchgate.net/profile/Guillaume_Dubeaux"><i class="ai ai-lg ai-researchgate"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/guillaumedubeaux/"><i class="fab fa-lg fa-linkedin"></i></a></li>
-
-              </ul>
-    </p>
-
-  </div>
-  <div id="list-example" class="list-group">
-
-<a class="list-group-item list-group-item-action" href="#experience">Experiences</a>
-<a class="list-group-item list-group-item-action" href="#award">Awards</a>
-<a class="list-group-item list-group-item-action" href="#education">Education</a>
-<a class="list-group-item list-group-item-action" href="#publication">Publications</a>
-<a class="list-group-item list-group-item-action" href="#communication">Communications</a>
-
-</div>
-<div class="text-center py-3">
-<a href="/content/cv.pdf"><button type="button" class="btn btn-warning"><i class="fa fa fa-download"></i> Download my CV</button></a>
-</div>
-</div>
-
-</div>
-
-          <div class="col-sm-9 text-justify">
-              <h3 id="experiences"><a name="experience"></a>Experiences</h3>
+I"3)<h3 id="experiences"><a name="experience"></a>Experiences</h3>
 
 <h4 id="post-doctoral-embo-fellow-plant-cell-biology">Post-doctoral EMBO Fellow, Plant Cell Biology</h4>
 <p>University of California San Diego (UCSD), La Jolla, California, USA. September 2017 to now.</p>
@@ -160,7 +64,7 @@
 <span class="text-secondary">Takahashi Y, Zhang J, Hsu PK, Ceciliato PHO, Zhang L, <strong>Dubeaux G</strong>, Munemasa S, Ge C, Zhao Y, Hauser F and Schroeder JI.</span><br />
 <strong>Nature Communications</strong> 2020; 11:12<br />
 <a href="https://dx.doi.org/10.1038%2Fs41467-019-13875-y"><i class="ai ai-doi ai-2x"></i></a>
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/31896774"><i class="ai ai-2x ai-pubmed"></i></a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6940395/"><i class="ai ai-2x ai-pubmed"></i></a>
 <a href="/content/NatComm_2020.pdf"><i class="fas fa-2x fa-download"></i></a></p>
   </li>
   <li>
@@ -183,8 +87,8 @@
     <p>Insights into the Molecular Mechanisms of CO<sub>2</sub>-Mediated Regulation of Stomatal Movements.<br />
 <span class="text-secondary">Zhang, J, Ceciliato, PHO, Takahashi, Y, Schulze, S, <strong>Dubeaux, G</strong>, Hauser, F, Azoulay-Shemer, T, Tõldsepp, K, Kollist, H, Rappel, W, Schroeder, JI.</span><br />
 <strong>Current Biology</strong> 2018; 28(23), R1356-R1363<br />
-<a href="https://doi.org/10.1016/j.cub.2018.10.015"><i class="ai ai-doi ai-2x"></i></a>
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/30513335"><i class="ai ai-2x ai-pubmed"></i></a>
+[<i class="ai ai-doi ai-2x"></i>]
+[<i class="ai ai-2x ai-pubmed"></i>]
 <a href="/content/CurrBio_2018.pdf"><i class="fas fa-2x fa-download"></i></a></p>
   </li>
   <li>
@@ -246,58 +150,4 @@
   <li><strong>Dubeaux G</strong> <span class="font-italic">et al.</span>, poster, Doctoral school Meeting. <span class="text-secondary">Orsay (Paris), France. November 2014</span></li>
   <li><strong>Dubeaux G</strong> <span class="font-italic">et al.</span>, poster, Doctoral school Meeting. <span class="text-secondary">Orsay (Paris), France. November 2013</span></li>
 </ul>
-
-          </div>
-
-        </div>
-      </section>
-    </div>
-    <hr>
-<footer class="py-3">
-
-  <div class="container text-center text-secondary">
-    <div class="row">
-      <div class="col">
-        
-          <div class="social-links">
-  <a target="_blank" href="https://github.com/gdubeaux">
-    <i class="fab fa-github fa-2x"></i>
-  </a>
-  <a href="mailto:guillaume@dubeaux.me">
-    <i class="fa fa-envelope fa-2x" ></i>
-  </a>
-  <a target="_blank" href="https://twitter.com/gdubeaux">
-    <i class="fab fa-twitter fa-2x"></i>
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/gdubeaux">
-    <i class="fab fa-linkedin fa-2x"></i>
-  </a>
-</div>
-
-        
-      </div>
-    </div>
-    <div class="row">
-      <div class="col brand">
-        &copy; 2017-2020 <span class="">gd.</span>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col digitalocean">
-        Hosted on <a href="https://m.do.co/c/8c137871d7d2"><i class="fab fa-digital-ocean"></i></a> | Coded with <span class="text-primary"><i class="fas fa-heart"></i></span>
-      </div>
-    </div>
-  </div>
-</footer>
-
-<!-- JS -->
-<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-<script src="/js/clipboard.min.js"></script>
-<script src="/js/codeselect.js"></script>
-
-  </body>
-</html>
+:ET

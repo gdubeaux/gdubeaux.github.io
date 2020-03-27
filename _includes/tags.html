@@ -10,7 +10,7 @@
       {% for temptag in sortedtemptags %}
         {% assign tagitems = temptag | split: '#' %}
         {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-      <a href="#{{ tagname }}"><button type="button" class="btn btn-outline-warning m-1"><nobr>{{ tagname }}</nobr></button></a>
+      <a href="#{{ tagname }}"><button type="button" class="btn btn-outline-warning m-1 font-italic"><nobr>#{{ tagname }}</nobr></button></a>
       {% endfor %}
   </div>
 <hr>
@@ -24,7 +24,7 @@
   {% for temptag in sortedtemptags %}
     {% assign tagitems = temptag | split: '#' %}
     {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-<h3 class="text-warning" id="{{ tagname }}">{{ tagname }}</h3>
+<h3 class="text-warning font-italic" id="{{ tagname }}">#{{ tagname }}</h3>
 
  {% for post in site.posts %}
  <ul>

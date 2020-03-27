@@ -2,7 +2,7 @@
 layout: post
 title: A Sample Post
 summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
-tags: web jekyll
+tags: GDJournalClub jekyll
 ---
 ## Lorem
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
