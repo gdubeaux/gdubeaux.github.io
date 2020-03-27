@@ -1,0 +1,30 @@
+<div class="card-deck py-2">
+  <div class="card">
+    <div class="card-body text-center">
+      <h5 class="card-title text-primary"><i class="fas fa-tag fa-1x"></i> Tags</h5>
+      <p class="card-text text-primary">Browse all posts published on the website by tags.</p>
+      <a href="{{ site.baseurl }}/tags/" class="btn btn-warning text-center"><i class="fas fa-tag fa-1x"></i> Tag archive</a>
+    </div>
+    <div class="card-footer text-center">
+      <small class="text-muted">Total number of tags: {{ site.tags | size }}</small>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body text-center">
+      <h5 class="card-title text-primary"><i class="fas fa-link fa-1x"></i> Useful links</h5>
+      <a href="{{ site.baseurl }}/" class="btn btn-warning text-center"><i class="fas fa-rss-square fa-1x"></i> Blog</a><br/><br/>
+      <a href="{{ site.baseurl }}/about/" class="btn btn-warning text-center"><i class="fas fa-info-circle fa-1x"></i> About me</a><br/><br/>
+      <a href="{{ site.baseurl }}/cv/" class="btn btn-warning text-center"><i class="fas fa-address-card fa-1x"></i> My CV</a>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body text-center">
+      <h5 class="card-title text-primary"><i class="fas fa-archive fa-1x"></i> Archive</h5>
+      <p class="card-text text-primary">Sorted list of all posts published on the website.</p>
+      <a href="{{ site.baseurl }}/archive/" class="btn btn-warning text-center"><i class="fas fa-archive fa-1x"></i> Post archive</a>
+    </div>
+    <div class="card-footer text-center">
+      <small class="text-muted">Total number of posts: {{ site.posts | size }}</small>
+    </div>
+  </div>
+</div>

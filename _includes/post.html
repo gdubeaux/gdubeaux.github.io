@@ -1,13 +1,12 @@
 <div id="post">
 <div class="post-title">
 <h2><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
-<hr>
-        <div class="d-flex justify-content-between">
+        <div class="d-flex justify-content-between align-items-center">
 
               <span class="post-tag">
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"><button type="button" class="btn btn-outline-warning"><nobr>{{ tag_name }}</nobr></button>&nbsp;</a>
+            <a href="/tag/{{ tag_name }}"><button type="button" class="btn btn-outline-warning m-1"><nobr>{{ tag_name }}</nobr></button></a>
           {% endfor %}
         </span>
         <span class="post-date">
