@@ -1,0 +1,41 @@
+{% include breadcrumbs.html %}
+<h2 class="text-primary">Tags</h2>
+    <div class="py-3 text-center">
+      {% capture temptags %}
+        {% for tag in site.tags %}
+          {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+        {% endfor %}
+      {% endcapture %}
+      {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+      {% for temptag in sortedtemptags %}
+        {% assign tagitems = temptag | split: '#' %}
+        {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+      <a href="#{{ tagname }}"><button type="button" class="btn btn-outline-warning"><nobr>{{ tagname }}</nobr></button>&nbsp;</a>
+      {% endfor %}
+  </div>
+<hr>
+<div class="tags-div">
+  {% capture temptags %}
+    {% for tag in site.tags %}
+      {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+    {% endfor %}
+  {% endcapture %}
+  {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+  {% for temptag in sortedtemptags %}
+    {% assign tagitems = temptag | split: '#' %}
+    {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+<h3 class="text-warning" id="{{ tagname }}">{{ tagname }}</h3>
+
+ {% for post in site.posts %}
+ <ul>
+   {% if post.tags contains tagname %}
+   <li>
+     <span>{{ post.date | date: "%b %d, %Y" }}</span> -
+     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+   </li>
+   {% endif %}
+ </ul>
+ {% endfor %}
+
+{% endfor %}
+</div>

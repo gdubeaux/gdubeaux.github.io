@@ -1,5 +1,5 @@
 ---
-layout: tagpage
-title: "Tag: test"
+layout: tag
+title: "Archive for #test"
 tag: test
 ---
