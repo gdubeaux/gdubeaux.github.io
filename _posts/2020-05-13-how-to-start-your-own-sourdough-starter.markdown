@@ -10,3 +10,4 @@ blog: true
 ---
 
 The whole process takes roughly a week. You can find many videos online to make your own sourdough starter. Here is what I did to create Marcel and his little brother Gontran, my two starters 🥰
+Blabla
