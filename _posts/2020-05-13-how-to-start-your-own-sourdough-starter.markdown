@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "---"
+title: "How to start your own sourdough starter"
 date: 2020-05-13
 author: gdubeaux
 tags:
-  - AboutCooking
+  - Test
 category: blog
 blog: true
----
-
-title: “How to start your own sourdough starter 🥖”
-summary: “Step by step protocol to make your own sourdough starter from flour and water 😎”
-tag: AboutCooking
 ---
 
 The whole process takes roughly a week. You can find many videos online to make your own sourdough starter. Here is what I did to create Marcel and his little brother Gontran, my two starters 🥰
