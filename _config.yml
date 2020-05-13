@@ -18,4 +18,4 @@ linkedin_username: gdubeaux
 
 # plugins
 plugins: [jekyll-paginate]
-paginate: 10
+paginate: 5

@@ -3,7 +3,18 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    {% include post.html %}
+
+    <div class="container">
+      <section class="py-5">
+        <div class="row">
+          <div class="col text-justify">
+              {% include post.html %}
+          </div>
+
+        </div>
+        {% include pagination_archives.html %}
+      </section>
+    </div>
     {% include footer.html %}
   </body>
 </html>

@@ -1,40 +1,25 @@
-<section id="posts" class="py-5">
-  <div class="container">
-    <div class="row">
-      <div class="col">
+<div id="posts">
         {% for post in paginator.posts %}
           <div class="post-title">
 <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-<hr>
-            <div class="d-flex justify-content-between">
+            <div class="d-flex justify-content-between align-items-center">
 
                   <span class="post-tag">
               {% for tag in post.tags %}
                 {% capture tag_name %}{{ tag }}{% endcapture %}
-                <a href="/tag/{{ tag_name }}"><button type="button" class="btn btn-outline-warning"><nobr>{{ tag_name }}</nobr></button>&nbsp;</a>
+                <a href="/tag/{{ tag_name }}"><button type="button" class="btn btn-outline-warning m-1 font-italic"><nobr>#{{ tag_name }}</nobr></button></a>
               {% endfor %}
             </span>
             <span class="post-date">
               {{ post.date | date: "%b %-d, %Y" }}
             </span>
             </div>
-<div class="post-summary">
-            <p>
-              {% if post.summary %}
-                {{ post.summary }}
-              {% else %}
-                {{ post.excerpt }}
-              {% endif %}
-            </p>
-            <a href="{{ post.url | prepend: site.baseurl }}">
-              <p class="text-center">
-                <i class="fas fa-plus-circle"></i> Read more
-              </p>
-            </a>
-            </div>
+            <article class="post-content">
+              {{ post.content }}
+            </article>
+
           </div>
+<hr>
+<br/>
         {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
+</div>
