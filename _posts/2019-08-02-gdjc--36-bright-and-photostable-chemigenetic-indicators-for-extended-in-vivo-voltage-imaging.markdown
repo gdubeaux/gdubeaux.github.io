@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GDJC #36: Bright and photostable chemigenetic indicators for extended in vivo voltage imaging"
-date: 2020-05-13
+date: 2019-08-02
 author: gdubeaux
 tags:
   - GDJournalClub
