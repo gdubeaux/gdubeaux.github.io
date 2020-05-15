@@ -58,7 +58,7 @@ To get a decent Mac laptop, don’t spend less than $2,000 if you want to keep i
 
 Okay, now that I said that my iPad is five years old, I have to tell you that I am tempted to replace it with a new generation iPad with a Magic Keyboard. See for yourself:
 
-![Is it truly magic?]()(magic.png)
+![Is it truly magic?]({{site.baseurl}}/img/magic.png)
 
 But boy, that thing is expensive. And iPadOS really works well on my iPad Pro right now. I will just wait for WWDC this year and see what they will present for iPadOS 14 🤩
 
