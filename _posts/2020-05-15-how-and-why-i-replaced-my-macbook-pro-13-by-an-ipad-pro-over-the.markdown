@@ -5,7 +5,7 @@ date: 2020-05-15
 author: gdubeaux
 tags:
   - TechFriday
-  - iPad Laptop
+  - iPadLaptop
 category: blog
 blog: true
 ---
