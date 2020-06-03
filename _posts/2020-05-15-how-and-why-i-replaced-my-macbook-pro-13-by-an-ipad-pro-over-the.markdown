@@ -16,7 +16,7 @@ Big news, I am an iPad fan. But replacing your Mac laptop with an iPad might see
 
 I am not [Federico Viticci](https://twitter.com/viticci), as I am not saying that my iPad will be my only computer. I might be tempted in the future, but as a research associate, a lot of software that I use daily are Windows or Mac only (not even Linux…). In the meantime, I proudly own an iMac 5K, which is by far my favorite computer (the screen is terrific). The iPad Pro is here for its mobility aspect: that is where an iPad excel compared to a Mac laptop. 
 
-I see this post as the first in a long series that will be named “iPad Laptop”. In this first article, I will explain the main reasons that pushed me toward adopting the iPad as a daily portable computer.
+I see this post as the first in a long series that will be categorized under [#iPadLaptop]({{site.baseurl}}/tag/iPadLaptop). In this first article, I will explain the main reasons that pushed me toward adopting the iPad as a daily portable computer.
 
 ### The battery life is so much better than an MBP 🤩
 
