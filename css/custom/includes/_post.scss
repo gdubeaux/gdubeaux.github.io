@@ -41,6 +41,7 @@
 }
 .post-title a {
   text-decoration: none;
+  color: $primary;
   &:hover {
     color: $warning;
   }

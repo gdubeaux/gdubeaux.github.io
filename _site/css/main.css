@@ -2981,7 +2981,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 #post .btn-copy-code:hover { cursor: pointer; color: #4a525a; }
 
-.post-title a { text-decoration: none; }
+.post-title a { text-decoration: none; color: #4a525a; }
 
 .post-title a:hover { color: #6a9fb5; }
 
