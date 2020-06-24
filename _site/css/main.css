@@ -2965,6 +2965,10 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .post-summary a:hover { color: #4a525a !important; }
 
+a { color: #6a9fb5; }
+
+a:hover { color: #4a525a !important; }
+
 #pager a.btn.disabled { color: #b5b5b5; }
 
 #post { /****************************** STYLES FOR DISPLAYING CODE */ }
