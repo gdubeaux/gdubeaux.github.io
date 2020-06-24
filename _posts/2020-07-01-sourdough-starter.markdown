@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How I started my own sourdough starter a year ago 😎"
-date: 2020-05-13
+title: "How I started my own sourdough starter over a year ago 😎"
+date: 2020-07-01
 author: gdubeaux
 tags:
   - AboutCooking
@@ -22,35 +22,35 @@ The whole process takes roughly a week. You can find many videos online to make 
 - 50g unbleached wheat flour,
 - 115g mineral water (the hydration level is lower today: a lot of water helps wild yeast to grow in the first place but too much water could trigger your starter to rot in the long run! Be nice with your starter ✌🏼).
 
-### Day 3 
+### Day 3
 Same as day 2:
 - 70g of sourdough starter from previous day,
 - 50g whole wheat flour,
 - 50g unbleached wheat flour,
 - 115g mineral water.
 
-### Day 4 
+### Day 4
 Let's lower the hydration level even more:
 - 70g of sourdough starter from previous day,
 - 50g whole wheat flour,
 - 50g unbleached wheat flour,
 - 100g mineral water.
 
-### Day 5 
+### Day 5
 Same as day 4:
 - 70g of sourdough starter from previous day,
 - 50g whole wheat flour,
 - 50g unbleached wheat flour,
 - 100g mineral water.
 
-### Day 6 
+### Day 6
 Same as day 4 and 5:
 - 70g of sourdough starter from previous day,
 - 50g whole wheat flour,
 - 50g unbleached wheat flour,
 - 100g mineral water.
 
-### Day 7 
+### Day 7
 Same as day 4, 5 and 6:
 - 70g of sourdough starter from previous day,
 - 50g whole wheat flour,

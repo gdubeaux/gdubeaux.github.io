@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How and why I replaced my MacBook Pro 13 by an iPad Pro over the years? 🤓"
-date: 2020-05-15
+title: "How and why I replaced my MacBook Pro by an iPad Pro over the years? 🤓"
+date: 2020-07-03
 author: gdubeaux
 tags:
   - TechFriday
@@ -14,9 +14,9 @@ Big news, I am an iPad fan. But replacing your Mac laptop with an iPad might see
 
 <img alt="Sunny SoCal and iPad Pro are the perfect combo for a productive lockdown" src="{{site.baseurl}}/img/ipad.jpg" width="100%"/>
 
-I am not [Federico Viticci](https://twitter.com/viticci), as I am not saying that my iPad will be my only computer. I might be tempted in the future, but as a research associate, a lot of software that I use daily are Windows or Mac only (not even Linux…). In the meantime, I proudly own an iMac 5K, which is by far my favorite computer (the screen is terrific). The iPad Pro is here for its mobility aspect: that is where an iPad excel compared to a Mac laptop. 
+I am not [Federico Viticci][1], as I am not saying that my iPad will be my only computer. I might be tempted in the future, but as a research associate, a lot of software that I use daily are Windows or Mac only (not even Linux…). In the meantime, I proudly own an iMac 5K, which is by far my favorite computer (the screen is terrific). The iPad Pro is here for its mobility aspect: that is where an iPad excel compared to a Mac laptop. 
 
-I see this post as the first in a long series that will be categorized under [#iPadLaptop]({{site.baseurl}}/tag/iPadLaptop). In this first article, I will explain the main reasons that pushed me toward adopting the iPad as a daily portable computer.
+I see this post as the first in a long series that will be categorized under [^iPadLaptop]({{site.baseurl}}/tag/iPadLaptop). In this first article, I will explain the main reasons that pushed me toward adopting the iPad as a daily portable computer.
 
 ### The battery life is so much better than an MBP 🤩
 
@@ -67,3 +67,5 @@ I hope that I convinced you that an iPad is not just about consumption anymore. 
 
 
 
+
+[1]:	https://twitter.com/viticci
