@@ -22,7 +22,7 @@
 }
 
 .post-content a {
-  color: $warning;
+  color: $warning !important;
   &:hover {
     color: $primary !important;
   }
