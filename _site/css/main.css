@@ -2987,6 +2987,10 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .post-content { margin-top: 20px; margin-bottom: 40px; }
 
+.post-content a { color: #6a9fb5; }
+
+.post-content a:hover { color: #4a525a; }
+
 /* Solarized Dark
 
 For use with Jekyll and Pygments
