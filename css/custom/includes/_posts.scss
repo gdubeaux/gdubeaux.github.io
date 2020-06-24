@@ -1,9 +1,8 @@
 #posts {
   a {
     text-decoration: none;
-    color: $warning;
     &:hover {
-      color: $primary;
+      color: $warning;
     }
   }
 }
@@ -22,7 +21,7 @@
   color: $primary;
 }
 
-.post-summary a {
+.post-content a {
   color: $warning;
   &:hover {
     color: $primary !important;

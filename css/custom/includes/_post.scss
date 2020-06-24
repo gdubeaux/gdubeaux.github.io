@@ -52,7 +52,7 @@
   margin-bottom: 40px;
 }
 
-.post-content a {
+p > a {
 	color: $warning;
 	&:hover {
       color: $primary;
