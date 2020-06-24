@@ -2951,9 +2951,9 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .social-links a:hover { color: #6a9fb5; cursor: pointer; }
 
-#posts a { text-decoration: none; color: #6a9fb5; }
+#posts a { text-decoration: none; }
 
-#posts a:hover { color: #4a525a; }
+#posts a:hover { color: #6a9fb5; }
 
 .post-date { color: #4a525a; font-weight: lighter; }
 
@@ -2961,9 +2961,9 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .post-summary { color: #4a525a; }
 
-.post-summary a { color: #6a9fb5; }
+.post-content a { color: #6a9fb5; }
 
-.post-summary a:hover { color: #4a525a !important; }
+.post-content a:hover { color: #4a525a !important; }
 
 #pager a.btn.disabled { color: #b5b5b5; }
 
@@ -2987,9 +2987,9 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .post-content { margin-top: 20px; margin-bottom: 40px; }
 
-.post-content a { color: #6a9fb5; }
+p > a { color: #6a9fb5; }
 
-.post-content a:hover { color: #4a525a; }
+p > a:hover { color: #4a525a; }
 
 /* Solarized Dark
 
