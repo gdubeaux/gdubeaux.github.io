@@ -1,8 +1,3 @@
----
-layout: cv
-title: "My CV"
----
-
 ### <a name="experience"></a>Experiences
 
 #### Post-doctoral EMBO Fellow, Plant Cell Biology
