@@ -1,22 +1,22 @@
-### <a name="experience"></a>Experiences
+### <a name="experience"></a><span class="text-center">Experiences</span>
 
-#### Post-doctoral EMBO Fellow, Plant Cell Biology
+#### <span class="text-secondary">Post-doctoral EMBO Fellow, Plant Cell Biology</span>
 University of California San Diego (UCSD), La Jolla, California, USA. September 2017 to now.
 - PI: Pr. Julian Schroeder [<i class="fa fa-envelope sendmail"></i>](mailto:jischroeder@ucsd.edu)
 - Project: Finding new components implicated in the CO2 signaling pathway in *Arabidopsis* guard cells.
 
-#### PhD, Plant Cell Biology
+#### <span class="text-secondary">PhD, Plant Cell Biology</span>
 Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette (Paris), France. October 2013 to June 2017.
 - PI: Dr. Greg Vert [<i class="fa fa-envelope sendmail"></i>](gregory.vert@lrsv.ups-tlse.fr)
 - Project: Molecular mechanisms driving the dynamics and the ubiquitination of the plant metal transporter IRT1 in *Arabidopsis*.
 - Representative roles: elected to the lab board (2013-2015) / elected to the council of the doctoral school (2013-2015)
 
-#### Master, Plant Cell Biology
+#### <span class="text-secondary">Master, Plant Cell Biology</span>
 Institute of Plant Sciences (ISV), Gif-sur-Yvette (Paris), France. January to June 2013
 - PI: Dr. Greg Vert [<i class="fa fa-envelope sendmail"></i>](gregory.vert@lrsv.ups-tlse.fr)
 - Project: Ubiquitin-mediated endocytosis of the plant metal transporter IRT1 in *Arabidopsis thaliana*.
 
-#### Bachelor, Plant Physiology
+#### <span class="text-secondary">Bachelor, Plant Physiology</span>
 Pierre et Marie Curie University (UPMC), Paris, France. April to June 2012
 - PI: Pr. Pierre Carol [<i class="fa fa-envelope sendmail"></i>](mailto:pierre.carol@upmc.fr)
 - Project: Role of the mitochondrial transporter BAC2 in *Arabidopsis thaliana*.<br><br>
@@ -25,25 +25,25 @@ Pierre et Marie Curie University (UPMC), Paris, France. April to June 2012
 <br>
 ### <a name="award"></a>Awards
 
-#### EMBO Long-Term Fellowship
+#### <span class="text-secondary">EMBO Long-Term Fellowship</span>
 
 [<img src="/img/EMBO.gif" alt="EMBO" width="30%">](http://www.embo.org/funding-awards/fellowships/long-term-fellowships) - July 2018 to now
 
-#### PhD Fellowship
+#### <span class="text-secondary">PhD Fellowship</span>
 Ministère de la Recherche et de l’Enseignement Supérieur, France - October 2013 to September 2016<br><br>
 
 ---
 <br>
 ### <a name="education"></a>Education
 
-#### PhD, Plant Cell Biology (with Honors)
+#### <span class="text-secondary">Ph.D., Plant Cell Biology (with Honors)</span>
 Paris-Saclay University, Doctoral School n°567, Orsay (Paris), France. October 2013 to December 2016
-[<button type="button" class="btn btn-outline-secondary btn-sm"><i class="fa fa fa-download"></i> Download my PhD thesis</button>](/content/GDPhD.pdf)
+<span class="text-center">[<button type="button" class="btn btn-outline-secondary btn-sm"><i class="fa fa fa-download"></i> Download my PhD thesis</button>](/content/GDPhD.pdf)</span>
 
-#### Master of Sc., Integrative Biology and Physiology (with Honors)
+#### <span class="text-secondary">Master of Sc., Integrative Biology and Physiology (with Honors)</span>
 Pierre et Marie Curie University (UPMC), Paris, France. September 2011 to June 2013
 
-#### Bachelor of Sc., Life Sciences (with Honors)
+#### <span class="text-secondary">Bachelor of Sc., Life Sciences (with Honors)</span>
 Pierre et Marie Curie University (UPMC), Paris, France. September 2008 to June 2011<br><br>
 
 ---
