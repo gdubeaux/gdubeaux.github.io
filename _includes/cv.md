@@ -27,7 +27,7 @@
 
 #### EMBO Long-Term Fellowship
 
-[<img src="/img/EMBO.gif" alt="EMBO" width="30%">](http://www.embo.org/funding-awards/fellowships/long-term-fellowships)<span class="text-secondary"> - July 2018 to now.</span>
+[<img src="/img/EMBO.gif" alt="EMBO" width="20%">](https://www.embo.org/funding-awards/fellowships.html)<span class="text-secondary"> - July 2018 to now.</span>
 
 #### Ph.D. Fellowship
 <span class="text-secondary">Ministère de la Recherche et de l’Enseignement Supérieur, France - October 2013 to September 2016.</span><br><br>
