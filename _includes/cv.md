@@ -1,6 +1,6 @@
-### <a name="experience"></a><span class="text-center">Experiences</span>
+<a name="experience"><h3 class="text-center">Experiences</h3></a>
 
-#### <span class="text-secondary">Post-doctoral EMBO Fellow, Plant Cell Biology</span>
+#### <span class="text-warning">Post-doctoral EMBO Fellow, Plant Cell Biology</span>
 University of California San Diego (UCSD), La Jolla, California, USA. September 2017 to now.
 - PI: Pr. Julian Schroeder [<i class="fa fa-envelope sendmail"></i>](mailto:jischroeder@ucsd.edu)
 - Project: Finding new components implicated in the CO2 signaling pathway in *Arabidopsis* guard cells.
