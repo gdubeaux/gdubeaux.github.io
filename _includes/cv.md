@@ -1,23 +1,23 @@
-<a name="experience"><h3 class="text-center">Experiences</h3></a>
+### <a name="experience"></a><span class="text-warning">Experiences</span>
 
-#### <span class="text-warning">Post-doctoral EMBO Fellow, Plant Cell Biology</span>
-University of California San Diego (UCSD), La Jolla, California, USA. September 2017 to now.
+#### Post-doctoral EMBO Fellow, Plant Cell Biology
+<span class="text-secondary">University of California San Diego (UCSD), La Jolla, California, USA. September 2017 to now.</span>
 - PI: Pr. Julian Schroeder [<i class="fa fa-envelope sendmail"></i>](mailto:jischroeder@ucsd.edu)
 - Project: Finding new components implicated in the CO2 signaling pathway in *Arabidopsis* guard cells.
 
-#### <span class="text-secondary">PhD, Plant Cell Biology</span>
-Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette (Paris), France. October 2013 to June 2017.
+#### Ph.D., Plant Cell Biology
+<span class="text-secondary">Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette (Paris), France. October 2013 to June 2017.</span>
 - PI: Dr. Greg Vert [<i class="fa fa-envelope sendmail"></i>](gregory.vert@lrsv.ups-tlse.fr)
 - Project: Molecular mechanisms driving the dynamics and the ubiquitination of the plant metal transporter IRT1 in *Arabidopsis*.
 - Representative roles: elected to the lab board (2013-2015) / elected to the council of the doctoral school (2013-2015)
 
-#### <span class="text-secondary">Master, Plant Cell Biology</span>
-Institute of Plant Sciences (ISV), Gif-sur-Yvette (Paris), France. January to June 2013
+#### <span class="text-secondary">Master, Plant Cell Biology
+<span class="text-secondary">Institute of Plant Sciences (ISV), Gif-sur-Yvette (Paris), France. January to June 2013</span>
 - PI: Dr. Greg Vert [<i class="fa fa-envelope sendmail"></i>](gregory.vert@lrsv.ups-tlse.fr)
 - Project: Ubiquitin-mediated endocytosis of the plant metal transporter IRT1 in *Arabidopsis thaliana*.
 
-#### <span class="text-secondary">Bachelor, Plant Physiology</span>
-Pierre et Marie Curie University (UPMC), Paris, France. April to June 2012
+#### <span class="text-secondary">Bachelor, Plant Physiology
+<span class="text-secondary">Pierre et Marie Curie University (UPMC), Paris, France. April to June 2012</span>
 - PI: Pr. Pierre Carol [<i class="fa fa-envelope sendmail"></i>](mailto:pierre.carol@upmc.fr)
 - Project: Role of the mitochondrial transporter BAC2 in *Arabidopsis thaliana*.<br><br>
 
