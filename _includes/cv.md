@@ -1,4 +1,4 @@
-### <a name="experience"></a><span class="text-warning">Experiences</span>
+## <a name="experience"></a><span class="text-warning">Experiences</span>
 
 #### Post-doctoral EMBO Fellow, Plant Cell Biology
 <span class="text-secondary">University of California San Diego (UCSD), La Jolla, California, USA. September 2017 to now.</span>
@@ -11,12 +11,12 @@
 - Project: Molecular mechanisms driving the dynamics and the ubiquitination of the plant metal transporter IRT1 in *Arabidopsis*.
 - Representative roles: elected to the lab board (2013-2015) / elected to the council of the doctoral school (2013-2015)
 
-#### <span class="text-secondary">Master, Plant Cell Biology
+#### Master, Plant Cell Biology
 <span class="text-secondary">Institute of Plant Sciences (ISV), Gif-sur-Yvette (Paris), France. January to June 2013</span>
 - PI: Dr. Greg Vert [<i class="fa fa-envelope sendmail"></i>](gregory.vert@lrsv.ups-tlse.fr)
 - Project: Ubiquitin-mediated endocytosis of the plant metal transporter IRT1 in *Arabidopsis thaliana*.
 
-#### <span class="text-secondary">Bachelor, Plant Physiology
+#### Bachelor, Plant Physiology
 <span class="text-secondary">Pierre et Marie Curie University (UPMC), Paris, France. April to June 2012</span>
 - PI: Pr. Pierre Carol [<i class="fa fa-envelope sendmail"></i>](mailto:pierre.carol@upmc.fr)
 - Project: Role of the mitochondrial transporter BAC2 in *Arabidopsis thaliana*.<br><br>
