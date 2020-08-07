@@ -1,7 +1,6 @@
 ---
 layout: cv
-title: CV
-permalink: /cv/
+title: "My CV"
 ---
 
 ### <a name="experience"></a>Experiences
