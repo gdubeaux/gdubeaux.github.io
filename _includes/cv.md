@@ -23,32 +23,32 @@
 
 ---
 <br>
-### <a name="award"></a>Awards
+### <a name="award"></a><span class="text-warning">Awards</span>
 
-#### <span class="text-secondary">EMBO Long-Term Fellowship</span>
+#### EMBO Long-Term Fellowship
 
-[<img src="/img/EMBO.gif" alt="EMBO" width="30%">](http://www.embo.org/funding-awards/fellowships/long-term-fellowships) - July 2018 to now
+[<img src="/img/EMBO.gif" alt="EMBO" width="30%">](http://www.embo.org/funding-awards/fellowships/long-term-fellowships)<span class="text-secondary"> - July 2018 to now.</span>
 
-#### <span class="text-secondary">PhD Fellowship</span>
-Ministère de la Recherche et de l’Enseignement Supérieur, France - October 2013 to September 2016<br><br>
-
----
-<br>
-### <a name="education"></a>Education
-
-#### <span class="text-secondary">Ph.D., Plant Cell Biology (with Honors)</span>
-Paris-Saclay University, Doctoral School n°567, Orsay (Paris), France. October 2013 to December 2016
-<span class="text-center">[<button type="button" class="btn btn-outline-secondary btn-sm"><i class="fa fa fa-download"></i> Download my PhD thesis</button>](/content/GDPhD.pdf)</span>
-
-#### <span class="text-secondary">Master of Sc., Integrative Biology and Physiology (with Honors)</span>
-Pierre et Marie Curie University (UPMC), Paris, France. September 2011 to June 2013
-
-#### <span class="text-secondary">Bachelor of Sc., Life Sciences (with Honors)</span>
-Pierre et Marie Curie University (UPMC), Paris, France. September 2008 to June 2011<br><br>
+#### Ph.D. Fellowship
+<span class="text-secondary">Ministère de la Recherche et de l’Enseignement Supérieur, France - October 2013 to September 2016.</span><br><br>
 
 ---
 <br>
-### <a name="publication"></a>Publications
+### <a name="education"></a><span class="text-warning">Education</span>
+
+#### Ph.D., Plant Cell Biology (with Honors)
+<span class="text-secondary">Paris-Saclay University, Doctoral School n°567, Orsay (Paris), France. October 2013 to December 2016</span>
+[<button type="button" class="btn btn-outline-secondary btn-sm"><i class="fa fa fa-download"></i> Download my PhD thesis</button>](/content/GDPhD.pdf)
+
+#### Master of Sc., Integrative Biology and Physiology (with Honors)
+<span class="text-secondary">Pierre et Marie Curie University (UPMC), Paris, France. September 2011 to June 2013</span>
+
+#### Bachelor of Sc., Life Sciences (with Honors)
+<span class="text-secondary">Pierre et Marie Curie University (UPMC), Paris, France. September 2008 to June 2011</span><br><br>
+
+---
+<br>
+### <a name="publication"></a><span class="text-warning">Publications</span>
 
 - MAP3Kinase-dependent SnRK2-kinase activation is required for abscisic acid signal transduction and rapid osmotic stress response.<br/>
 <span class="text-secondary">Takahashi Y, Zhang J, Hsu PK, Ceciliato PHO, Zhang L, **Dubeaux G**, Munemasa S, Ge C, Zhao Y, Hauser F and Schroeder JI.</span><br/>
@@ -117,7 +117,7 @@ Pierre et Marie Curie University (UPMC), Paris, France. September 2008 to June 2
 
 ---
 <br>
-### <a name="communication"></a>Communications
+### <a name="communication"></a><span class="text-warning">Communications</span>
 
 - **Dubeaux G**, seminar, FF21 - La Jolla Plant Biology Talks (UCSD).  <span class="text-secondary">La Jolla, CA, USA. December 2017</span>
 - **Dubeaux G**, seminar, University of California San Diego (UCSD).  <span class="text-secondary">La Jolla, CA, USA. March 2017</span>
