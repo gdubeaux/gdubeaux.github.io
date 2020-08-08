@@ -3,8 +3,16 @@ layout: cv
 title: "My CV"
 ---
 
-{% capture my_include %}{% include cv.md %}{% endcapture %}
-{{ my_include | markdownify }}
-
-{% include_relative cv/cv.html %}
+{% include_relative cv/experiences.html %}
 <hr>
+{% include_relative cv/awards.html %}
+<hr>
+{% include_relative cv/skills.html %}
+<hr>
+{% include_relative cv/education.html %}
+<hr>
+{% include_relative cv/publications.html %}
+<hr>
+{% include_relative cv/communications.html %}
+<hr>
+{% include_relative cv/projects.html %}
