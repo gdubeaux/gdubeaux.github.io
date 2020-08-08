@@ -1,7 +1,5 @@
-# jekyll-bootstrap-4-starter
+# Guillaume Dubeaux, Ph.D.
 
-A [Jekyll](https://jekyllrb.com/) and [Bootstrap 4](https://getbootstrap.com/) starter template.
+Post-doctoral EMBO Fellow at UCSD. Born and raised in Paris 🇫🇷. Now living in sunny SoCal ☀️. Proud father of 2 😍.
 
-Over-ride Bootstrap variables via the */css/custom_variables.scss* file.
-
-For more information see: [https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/)
+A [Jekyll](https://jekyllrb.com/) and [Bootstrap 4](https://getbootstrap.com/) website.
